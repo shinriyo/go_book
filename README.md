@@ -1,3 +1,3 @@
 ```
-go instrall first_webapp
+go install first_webapp
 ```
